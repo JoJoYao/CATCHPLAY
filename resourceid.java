@@ -159,8 +159,8 @@ public class resourceid {
 
     //useraccount_mobile_num_tw
 
-    public static String movie_lover_num_text = "0936830937";
-    public static String movie_lover_ps_text = "suzuki00";
+    public static String movie_lover_num_text = "xxxxxxxxx";
+    public static String movie_lover_ps_text = "xxxxxxxxx";
 
     public static String movie_fan_num_text = "xxxxx";
     public static String movie_fan_ps_text = "xxxxx";
